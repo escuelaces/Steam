@@ -1,2 +1,6 @@
-package com.escuelaces.steam;public class SteamApps {
+package com.escuelaces.steam;
+
+public class SteamApps {
+
+    SteamAppList applist;
 }
