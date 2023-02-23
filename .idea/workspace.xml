@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="920d73e5-b1b8-4eba-85ff-663864ffb793" name="Changes" comment="initial">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Games.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppDetail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppDetailResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppDetailResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamAppList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamDescription.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamDescription.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamPlatforms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamPlatforms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamReleaseDate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamReleaseDate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamScreenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamScreenshot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/escuelaces/steam/steam.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/escuelaces/steam/steam.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="920d73e5-b1b8-4eba-85ff-663864ffb793" name="Changes" comment="window size changed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +65,21 @@
       <option name="presentableId" value="Default" />
       <updated>1676593215544</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1677110277762</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677110277762</updated>
+    </task>
+    <task id="LOCAL-00002" summary="window size changed">
+      <created>1677110490492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677110490492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+    <MESSAGE value="window size changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="window size changed" />
   </component>
 </project>
