@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="920d73e5-b1b8-4eba-85ff-663864ffb793" name="Changes" comment="window size changed">
+    <list default="true" id="920d73e5-b1b8-4eba-85ff-663864ffb793" name="Changes" comment="Steam api improved">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Games.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677110563764</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Steam api improved">
+      <created>1677142366612</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677142366612</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,7 +113,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="window size changed" />
-    <option name="LAST_COMMIT_MESSAGE" value="window size changed" />
+    <MESSAGE value="Steam api improved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Steam api improved" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -118,6 +123,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java</url>
           <line>18</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamApplication.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
