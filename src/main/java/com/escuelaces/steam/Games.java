@@ -16,6 +16,10 @@ public class Games {
     public SimpleStringProperty macLogo = new SimpleStringProperty("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/2048px-Icon-Mac.svg.png");
     public SimpleStringProperty linuxLogo = new SimpleStringProperty("https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Linux_logo.jpg/640px-Linux_logo.jpg");
 
+    public Games() {
+
+    }
+
     public SimpleListProperty<SteamGame> list = new SimpleListProperty<>(
             FXCollections.observableArrayList(
                     new SteamGame("Hogwarts Legacy",

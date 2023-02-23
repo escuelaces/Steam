@@ -12,8 +12,7 @@ import java.net.URISyntaxException;
 
 public class SteamController {
 
-
-
+    Games games = Games.instance;
 
     @FXML
     void initialize(){

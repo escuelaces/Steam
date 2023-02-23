@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="920d73e5-b1b8-4eba-85ff-663864ffb793" name="Changes" comment="window size changed" />
+    <list default="true" id="920d73e5-b1b8-4eba-85ff-663864ffb793" name="Changes" comment="window size changed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Games.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Games.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/escuelaces/steam/SteamController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677110490492</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="window size changed">
+      <created>1677110563764</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677110563764</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +110,16 @@
     <MESSAGE value="initial" />
     <MESSAGE value="window size changed" />
     <option name="LAST_COMMIT_MESSAGE" value="window size changed" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/escuelaces/steam/Steam.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
